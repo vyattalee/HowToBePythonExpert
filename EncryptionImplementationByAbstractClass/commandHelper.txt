@@ -1,0 +1,7 @@
+EncryptFileToolExercise.py encrypt -i data\encryptingfile.dat -o data\encryptedfileRC4.dat -e RC4
+
+EncryptFileToolExercise.py decrypt -i data\encryptedfileRC4.dat -o data\decryptedfileRC4.dat  -e RC4
+
+EncryptFileToolExercise.py encrypt -i data\encryptingfileWordReversed.dat -o data\encryptedfileWordReversed.dat -e WordReversed
+
+EncryptFileToolExercise.py encrypt -i data\encryptedfileWordReversed.dat -o data\decryptedfileWordReversed.dat -e WordReversed

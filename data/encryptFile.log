@@ -1,0 +1,55 @@
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<WordReversedAlgorithm.WordReverseEncryption object at 0x0000025409E83760>, <_io.BufferedReader name='data\\encryptingfile.dat'>, <_io.BufferedWriter name='data\\encryptedfilez.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<WordReversedAlgorithm.WordReverseEncryption object at 0x0000018E5EB02760>, <_io.BufferedReader name='data\\encryptingfile.dat'>, <_io.BufferedWriter name='data\\encryptedfilez.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<AES_RC4_EncryptionAlgorithm.AES_RC4_EncryptionAlgorithm object at 0x0000018C9DC81400>, <_io.BufferedReader name='data\\encryptingfile.dat'>, <_io.BufferedWriter name='data\\encryptedfileRC4.dat'>), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<AES_RC4_EncryptionAlgorithm.AES_RC4_EncryptionAlgorithm object at 0x000001C5EAA91A00>, <_io.BufferedReader name='data\\encryptingfile.dat'>, <_io.BufferedWriter name='data\\encryptedfileRC4.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<AES_RC4_EncryptionAlgorithm.AES_RC4_EncryptionAlgorithm object at 0x000001869C5C1B80>, <_io.BufferedReader name='data\\encryptingfile.dat'>, <_io.BufferedWriter name='data\\encryptedfileRC4.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<AES_RC4_EncryptionAlgorithm.AES_RC4_EncryptionAlgorithm object at 0x0000016C255B1B80>, <_io.BufferedReader name='data\\encryptingfile.dat'>, <_io.BufferedWriter name='data\\encryptedfileRC4.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<AES_RC4_EncryptionAlgorithm.AES_RC4_EncryptionAlgorithm object at 0x0000016CA8421B80>, <_io.BufferedReader name='data\\encryptingfile.dat'>, <_io.BufferedWriter name='data\\encryptedfileRC4.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<AES_RC4_EncryptionAlgorithm.AES_RC4_EncryptionAlgorithm object at 0x000001DC83AD1A00>, <_io.BufferedReader name='data\\encryptingfile.dat'>, <_io.BufferedWriter name='data\\encryptedfileRC4.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<AES_RC4_EncryptionAlgorithm.AES_RC4_EncryptionAlgorithm object at 0x000001A958FE1A00>, <_io.BufferedReader name='data\\encryptingfile.dat'>, <_io.BufferedWriter name='data\\encryptedfileRC4.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<WordReversedAlgorithm.WordReverseEncryptionAlgorithm object at 0x0000026C878B1A30>, <_io.BufferedReader name='data\\encryptedfileRC4.dat'>, <_io.BufferedWriter name='data\\decryptedfileRC4.dat'>), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<AES_RC4_EncryptionAlgorithm.AES_RC4_EncryptionAlgorithm object at 0x000002AABE5AA070>, <_io.BufferedReader name='data\\encryptedfileRC4.dat'>, <_io.BufferedWriter name='data\\decryptedfileRC4.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<AES_RC4_EncryptionAlgorithm.AES_RC4_EncryptionAlgorithm object at 0x0000018827EC81F0>, <_io.BufferedReader name='data\\encryptedfileRC4.dat'>, <_io.BufferedWriter name='data\\decryptedfileRC4.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<WordReversedAlgorithm.WordReverseEncryptionAlgorithm object at 0x0000023D0F69A070>, <_io.BufferedReader name='data\\encryptedfilez.dat'>, <_io.BufferedWriter name='data\\decryptedfilez.dat'>), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<AES_RC4_EncryptionAlgorithm.AES_RC4_EncryptionAlgorithm object at 0x00000140E1D89070>, <_io.BufferedReader name='data\\encryptedfileRC4.dat'>, <_io.BufferedWriter name='data\\decryptedfileRC4.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<AES_RC4_EncryptionAlgorithm.AES_RC4_EncryptionAlgorithm object at 0x0000020FB373A070>, <_io.BufferedReader name='data\\encryptingfile.dat'>, <_io.BufferedWriter name='data\\encryptedfileRC4.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<AES_RC4_EncryptionAlgorithm.AES_RC4_EncryptionAlgorithm object at 0x0000021463D59070>, <_io.BufferedReader name='data\\encryptedfileRC4.dat'>, <_io.BufferedWriter name='data\\decryptedfileRC4.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<AES_RC4_EncryptionAlgorithm.AES_RC4_EncryptionAlgorithm object at 0x000002DBC7F6A070>, <_io.BufferedReader name='data\\encryptingfile.dat'>, <_io.BufferedWriter name='data\\encryptedfileRC4.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<AES_RC4_EncryptionAlgorithm.AES_RC4_EncryptionAlgorithm object at 0x000001EC5A0F81F0>, <_io.BufferedReader name='data\\encryptingfile.dat'>, <_io.BufferedWriter name='data\\encryptedfileRC4.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<AES_RC4_EncryptionAlgorithm.AES_RC4_EncryptionAlgorithm object at 0x000002A77B7FA070>, <_io.BufferedReader name='data\\encryptedfileRC4.dat'>, <_io.BufferedWriter name='data\\decryptedfileRC4.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<WordReversedAlgorithm.WordReverseEncryptionAlgorithm object at 0x000002C6193BA070>, <_io.BufferedReader name='data\\encryptingfile.dat'>, <_io.BufferedWriter name='data\\encryptedfile.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<WordReversedAlgorithm.WordReverseEncryptionAlgorithm object at 0x000001B3C3E58070>, <_io.BufferedReader name='data\\encryptedfile.dat'>, <_io.BufferedWriter name='data\\decryptedfile.dat'>), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<WordReversedAlgorithm.WordReverseEncryptionAlgorithm object at 0x000002056D12A070>, <_io.BufferedReader name='data\\encryptedfile.dat'>, <_io.BufferedWriter name='data\\decryptedfile.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<WordReversedAlgorithm.WordReverseEncryptionAlgorithm object at 0x0000028BEB0E8070>, <_io.BufferedReader name='data\\encryptingfileWordReversed.dat'>, <_io.BufferedWriter name='data\\encryptedfileWordReversed.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<WordReversedAlgorithm.WordReverseEncryptionAlgorithm object at 0x0000024E272D9070>, <_io.BufferedReader name='data\\encryptedfileWordReversed.dat'>, <_io.BufferedWriter name='data\\decryptedfileWordReversed.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<AES_RC4_EncryptionAlgorithm.AES_RC4_EncryptionAlgorithm object at 0x0000022FB758A070>, <_io.BufferedReader name='data\\encryptingfile.dat'>, <_io.BufferedWriter name='data\\encryptedfileRC4.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<AES_RC4_EncryptionAlgorithm.AES_RC4_EncryptionAlgorithm object at 0x000001FEA9BBA070>, <_io.BufferedReader name='data\\encryptedfileRC4.dat'>, <_io.BufferedWriter name='data\\decryptedfileRC4.dat'>, None), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: (<WordReversedAlgorithm.WordReverseEncryptionAlgorithm object at 0x0000019E2E822730>, <_io.BufferedReader name='data\\encryptingfileWordReversed.dat'>, <_io.BufferedWriter name='data\\encryptedfileWordReversed.dat'>, None), and kwargs: {}
