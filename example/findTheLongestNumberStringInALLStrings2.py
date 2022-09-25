@@ -1,6 +1,8 @@
 # coding=utf-8
 import sys
 
+
+
 def solve():
     for line in sys.stdin:
         # 字符串转列表进行遍历
@@ -30,4 +32,8 @@ def solve():
         print("%s,%d" % (result, length))
 
 if __name__ == "__main__":
-    solve()
+    # solve()
+
+    list = ['ale', 'apple', 'plea', 'hello1']
+    res = max(list, key=len, default='')
+    print(res)
